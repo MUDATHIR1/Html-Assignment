@@ -1,0 +1,47 @@
+header
+{
+text-align: center;
+font-family: sans-serif;
+font-size: 20px;
+color: rgb(76, 14, 14);
+}
+
+body
+{
+background-color: rgb(142, 109, 109);
+
+}
+
+p
+{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+font-style: initial;
+}
+
+h2
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+color: rgb(152, 48, 48);
+}
+
+h3
+{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 15px;
+color:oklab(from color l a b);
+}
+
+img
+{
+max-width: 50%;
+height: 80%;
+}
+
+footer
+{
+text-align:center;
+text-indent: 0%;
+text-justify: auto;
+}
